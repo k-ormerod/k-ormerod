@@ -10,4 +10,4 @@ I am also interested in science communication and outreach, and have given talks
 
 As well as my interest in high-redshift astronomy, I also have a keen interest in football analytics, combining my experience as a football player with my interest in data analysis! 
 
-Find out more about me on [my website](k-ormerod.github.io), or [drop me an email](mailto:arikorme@ljmu.ac.uk).
+Find out more about me on [my website](https://k-ormerod.github.io), or [drop me an email](mailto:arikorme@ljmu.ac.uk).
