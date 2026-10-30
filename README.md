@@ -3,9 +3,9 @@
 
 I'm Katherine Ormerod, a PhD student at the Astrophysics Research Institute, Liverpool John Moores University. 
 
-My research focuses on galaxies within the Epoch of Reionisation, the Universe's last major phase transition.
+My research focuses on galaxies within the Epoch of Reionisation, the Universe's last major phase transition, with an emphasis on dust formation and evolution. 
 
-Prior to my PhD, I completed an MSc by research at the University of Manchester, examining the size and structure of over 1000 galaxies with JWST NIRCam data at z>1.5. 
+Prior to my PhD, I completed an MSc by research at the University of Manchester, examining the size and structure of over 1000 galaxies with JWST NIRCam data. 
 
 I am also interested in science communication and outreach, and have given talks in local high schools and sixth form colleges.
 
